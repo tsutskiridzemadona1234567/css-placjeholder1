@@ -1,0 +1,34 @@
+.my_password{
+  width: 315px;
+  height: 45px;
+  border-radius: 10px;
+  border:  1px solid  #E0E0E0;
+  background-color: #FFFFFF;
+  color: #E0E0E0;
+}
+.my_password1{
+  width: 467px;
+  height: 45px;
+  border-radius: 15px;
+  border:  1px solid  #E0E0E0;
+  background-color: #610000;
+  color:#FF0000;
+}
+.my_password2{
+  width: 541px;
+  height: 45px;
+  border-radius: 5px;
+  border:  1px solid #A8AB00;
+  background-color:#FFFFFF;
+  color:#A8AB00;
+}
+.my_password3{
+  width: 315px;
+  height: 45px;
+  border-radius: 30px;
+  border:  1px solid #F9FE03;
+  background-color:#292828;
+  color: #F9FE03;
+}
+
+
